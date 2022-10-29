@@ -7,6 +7,6 @@ public class Practical {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter the number: ");
         String num = scan.nextLine();
-      System.out.println("You entered a number: " + num);
+        System.out.println("You entered a number: " + num);
     }
 }
